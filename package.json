@@ -1,0 +1,34 @@
+{
+  "name": "com.rimurudev.memory-snapshot-archiver",
+  "version": "1.0.0",
+  "displayName": "Memory Profiler Snapshot Archiver",
+  "description": "Utility tool for archiving Memory Profiler snapshots to an external drive in Unity. Helps in freeing up disk space on the primary drive by moving snapshots to a specified location.",
+  "unity": "2021.1",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/RimuruDev/Unity-MemoryProfiler-Snapshot-Archiver",
+  "licensesUrl": "https://github.com/RimuruDev/Unity-MemoryProfiler-Snapshot-Archiver/blob/main/LICENSE",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "keywords": [
+    "memory",
+    "profiler",
+    "archiver",
+    "memory-profiler",
+    "unity",
+    "unity-memory-profiler",
+    "macos-memory-profiler",
+    "unity-macos",
+    "rimurudev",
+    "rimuru-dev"
+  ],
+  "author": {
+    "name": "RimuruDev",
+    "email": "rimuru.dev@gmail.com",
+    "url": "https://github.com/RimuruDev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RimuruDev/Unity-MemoryProfiler-Snapshot-Archiver.git"
+  }
+}
